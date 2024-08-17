@@ -12,5 +12,5 @@ if BF then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Powerblack09yt/Scripts/main/Caveirahub-Bf.lua"))()
 end
 if MS then
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Powerblack09yt/Scripts/main/caveirahub-memesea.lua"))()
 end
