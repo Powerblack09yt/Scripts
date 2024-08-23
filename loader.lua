@@ -12,5 +12,5 @@ if BF then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Powerblack09yt/Scripts/main/Caveirahub-Bf.lua"))()
 end
 if press then
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Powerblack09yt/Scripts/main/caveirahub-pressure.lua"))()
 end
