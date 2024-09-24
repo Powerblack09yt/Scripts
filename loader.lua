@@ -15,6 +15,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Powerblack09yt/Script
 end
 if njl then  
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Powerblack09yt/Scripts/main/ninjalegends.lua"))()
+end
 if bss then  
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Powerblack09yt/Scripts/main/beeswarmsimulator.lua"))()
 end
